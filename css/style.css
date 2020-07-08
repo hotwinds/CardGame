@@ -1,0 +1,6 @@
+.cards {
+    width: 150px;
+    height: 200px;
+    background-color: grey;
+    display: inline-block;
+}
